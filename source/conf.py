@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Nombre"'
-copyright = u'2016, Alumno'
+project = u'Documentación de proyecto "Analisis y Diseño"'
+copyright = u'2016, Andy Velásquez'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

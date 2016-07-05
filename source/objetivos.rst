@@ -1,60 +1,45 @@
-"Nombre del proyecto"
+"Análisis y Diseño II"
 ====================
-
-Sustituya con el nombre del proyecto.
-
 
 Breve historia del proyecto
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
+El proyecto surgió por la necesidad que la Casa de la cultura de llevar
+control y poder reunir estadísticas sobre los artistas y eventos que se
+puedan originar; el proyecto será realizado por los alumnos del curso de
+Análisis y Diseño II y cursos siguientes a este.
 
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
+Al finalizar el proyecto y se encuentre implementado y funcionando
+correctamente, este traerá beneficios a la Casa de la cultura tales como:
+  * Mejor control de las actividades que estén sucediendo en el municipio
+    de Quetzaltenango.
+  * Evitar el desorden y posible pérdida de datos.
+  * Facilitar la vía de comunicación entre artista y la Casa de la cultura.
+  * Reducción en tiempo a solicitudes de alquiler de algún lugar (teatro
+    municipal, casa Noj, etc).
+  * Facilitar la toma de desiciones administrativas con base a las estadísticas
+    que se generen.
 
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
 
-
-Empresa a la que se dirige el sistema
+Casa de la cultura
 -------------------------------------
 
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
+La Casa de la cultura es una institución municipal que se dedica a
+promover la cultura del municipio de Quetzaltenango, así como la organizción
+y coordinación de actividades relacionadas con la cultura.
 
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+Recabar información con relación a los artistas y eventos creados con el
+objetivo de poder crear estadísticas que faciliten decisiones administrativas.
 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
-
-* Specific
-
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+  * Reducir el tiempo de respuesta a la solicitud de un evento a 24 horas
+    o menos.
+  * La página en los primeros meses tiene que registrar por al menos 3000
+    visitantes.
