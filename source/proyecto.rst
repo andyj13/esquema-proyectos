@@ -29,34 +29,49 @@ Modulos
 ^^^^^^^
 
 #. Artistas:
+    Ver diagrama de casos de uso :ref:`artistas-label`.
+
     Este módulo contempla primeramente la forma de registro de un artista,
     para poder registrarse deberá llenar un formulario con su información,
     para que la Casa de la cultura pueda contactarlo y así corroborar que
     su información sea verídica y confirmar el perfil; una vez autorizado
-    el perfil, un artista puede editar su información, crear eventos que
-    también tienen que ser autorizados por la Casa de la cultura.
+    el perfil, un artista puede:
+      * Editar su información.
+      * Crear eventos.
+      * Cambiar su contraseña.
 
 #. Eventos:
+    Ver diagrama de casos de uso :ref:`eventos-label`.
+
     Los eventos pueden ser creados tanto por los artistas como por la propia
     Casa de la cultura, en caso que un artista quiera crear un evento, deberá
-    llenar un formulario con la información del evento a realizar y la Casa de
-    la cultura confirmará o no el evento, si en dado caso el artista necesitara
+    llenar un formulario con la información del evento a realizar y un administrador
+    confirmará o no el evento, si en dado caso el artista necesitara
     de algún lugar para realizar la actividad como el teatro u otra institución
     relacionada con la Casa de la cultura, igualmente se confirmará si está
     disponible para su uso.
+    Este módulo contará con las siguientes funciones:
+      * Crear evento, en caso exclusivo de artistas y administradores.
+      * Ver eventos existentes.
+      * Buscar eventos.
+      * Ver eventos por categorías.
 
 #. Cápsulas informativas:
+    Ver diagrama de casos de uso :ref:`capsulas-label`.
+
     El software tendrá un módulo donde se tenga información sobre fechas
     importantes, actividades, lugares, monumentos, etc., todo referente a la
     cultura del municipio de Quetzaltenango estas estarán disponibles para el
     público en general que quiera visualizarla, esta información será
-    manipulada solamente por los adminstradores del sitio.
+    manipulada solamente por los adminstradores del sitio, tanto para crearlas,
+    editarlas o eliminar alguna cápsula.
 
-#. Administrador:
-    Un administrador tendrá tareas exclusivas, que no serán visibles por
-    los artitas o usuarios normales, ya que ello podrán autorizar la
-    creación de un perfil de un artista como la creación de un evento o en
-    dado caso eliminar algún perfil o evento; también ellos serán los
-    encargados de crear, eliminar, editar las cápsulas informativas.
-    Ellos serán los que tendrán acceso a las estadísticas generadas por el
-    sistema.
+#. Administrativo:
+    Ver diagrama de casos de uso :ref:`admin-label`.
+
+    Este incluye opciones que no estarán disponibles para los artistas ni por
+    los visitantes, tales opciones son:
+      * Confirmar artista y eventos.
+      * Eliminar artistas o eventos.
+      * Crear, editar, eliminar cápsulas informativas.
+      * Acceder al módulo de estadísticas.

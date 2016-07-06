@@ -4,8 +4,34 @@ Diseño de la aplicacíon
 Casos de Uso
 ------------
 
-Se colocan los distintos casos de uso, tanto para la aplicación general como para
-cada módulo.
+Diagrama general
+^^^^^^^^^^^^^^^^
+.. image:: CasosDeUso/diagramaGeneral.png
+   :scale: 50%
+
+.. _artistas-label:
+
+Módulo: artistas
+^^^^^^^^^^^^^^^^^^
+.. image:: CasosDeUso/moduloArtista.png
+
+.. _eventos-label:
+
+Módulo: eventos
+^^^^^^^^^^^^^^^^^
+.. image:: CasosDeUso/moduloEventos.png
+
+.. _capsulas-label:
+
+Módulo: cápsulas informativas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: CasosDeUso/moduloCapsulas.png
+
+.. _admin-label:
+
+Módulo: Administrativo
+^^^^^^^^^^^^^^^^^^^^^^
+.. image:: CasosDeUso/moduloAdministrativo.png
 
 Clases
 ------

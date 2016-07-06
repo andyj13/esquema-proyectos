@@ -1,13 +1,14 @@
-"Análisis y Diseño II"
+"Agenda de artistas y eventos"
 ====================
 
 Breve historia del proyecto
 ---------------------------
 
-El proyecto surgió por la necesidad que la Casa de la cultura de llevar
-control y poder reunir estadísticas sobre los artistas y eventos que se
-puedan originar; el proyecto será realizado por los alumnos del curso de
-Análisis y Diseño II y cursos siguientes a este.
+Ernesto Pacheco representante de la Casa de la cultura de Quetzaltenango y nuestro
+cliente , por la necesidad de tener un mejor control de los artistas y eventos
+culturales del municipio de Quetzaltenango, acudió para que al implementar un
+software estos problemas se puedan resolver; el proyecto será realizado por
+los alumnos del curso de Análisis y Diseño II y cursos siguientes a este.
 
 Al finalizar el proyecto y se encuentre implementado y funcionando
 correctamente, este traerá beneficios a la Casa de la cultura tales como:
@@ -39,7 +40,9 @@ objetivo de poder crear estadísticas que faciliten decisiones administrativas.
 Objetivos del proyecto
 ----------------------
 
-  * Reducir el tiempo de respuesta a la solicitud de un evento a 24 horas
-    o menos.
-  * La página en los primeros meses tiene que registrar por al menos 3000
-    visitantes.
+  * Los eventos se puedan organizar por categorías o por la fecha más
+    próxima.
+  * Se pueda modificar el tiempo en que las estadísticas se puedan actualizar,
+    ya sea por semana, mes, día.
+  * Exista una opción para los administradores de verificar el tiempo (días) de
+    inactividad de un artista.
