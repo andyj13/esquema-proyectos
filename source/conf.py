@@ -179,7 +179,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DocumentacindeproyectoNombredoc'
+htmlhelp_basename = 'Proyecto'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -205,8 +205,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Nombre" Documentation',
-   u'Alumno', 'manual'),
+  ('index', 'Proyecto.tex', u'Documentación de proyecto "Agenda de artistas y eventos" Documentation',
+   u'Andy Velasquez', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -235,7 +235,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'documentacindeproyectonombre', u'Documentación de proyecto "Nombre" Documentation',
+    ('index', 'Proyecto', u'Documentación de proyecto "Nombre" Documentation',
      [u'Alumno'], 1)
 ]
 
@@ -249,8 +249,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'DocumentacindeproyectoNombre', u'Documentación de proyecto "Nombre" Documentation',
-   u'Alumno', 'DocumentacindeproyectoNombre', 'One line description of project.',
+  ('index', 'Proyecto', u'Documentación de proyecto "Agenda de artistas y eventos" Documentation',
+   u'Andy Velasquez', 'Proyecto', 'One line description of project.',
    'Miscellaneous'),
 ]
 

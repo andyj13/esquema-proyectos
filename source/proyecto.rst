@@ -36,9 +36,16 @@ Modulos
     para que la Casa de la cultura pueda contactarlo y así corroborar que
     su información sea verídica y confirmar el perfil; una vez autorizado
     el perfil, un artista puede:
+
       * Editar su información.
       * Crear eventos.
       * Cambiar su contraseña.
+
+    Y para cualquier usuario tendrá las siguientes opciones:
+
+      * Buscar artista.
+      * Ver artistas por categoría.
+      * Ver información de artistas.
 
 #. Eventos:
     Ver diagrama de casos de uso :ref:`eventos-label`.
@@ -51,6 +58,7 @@ Modulos
     relacionada con la Casa de la cultura, igualmente se confirmará si está
     disponible para su uso.
     Este módulo contará con las siguientes funciones:
+
       * Crear evento, en caso exclusivo de artistas y administradores.
       * Ver eventos existentes.
       * Buscar eventos.
@@ -71,7 +79,15 @@ Modulos
 
     Este incluye opciones que no estarán disponibles para los artistas ni por
     los visitantes, tales opciones son:
+
       * Confirmar artista y eventos.
       * Eliminar artistas o eventos.
       * Crear, editar, eliminar cápsulas informativas.
-      * Acceder al módulo de estadísticas.
+      * Acceder a las estadísticas.
+
+    Las estadísticas, siendo un sub módulo de este, tendrán las siguientes
+    opciones:
+
+      * Ver eventos más populares.
+      * Censos de artistas (cuántos artistas hay en cada categoría).
+      * Actualizar las estadísticas.
