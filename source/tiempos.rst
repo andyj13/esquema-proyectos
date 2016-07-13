@@ -4,31 +4,40 @@ Desarrollo del proyecto
 Cómo se trabajará
 -----------------
 
-Explicación de cómo se trabajará la aplicación, como ciclo de vida, prototipos,
-etc.
+Se trabajará mediante el modelo MDSD, el cual es un desarrollo creciente e
+iterativo, y nos da la opción de replantear nuestros requisitos así como
+revertir algunos, este requerirá más juntas con el cliente con cada entrega
+que se realice, esto con el objetivo de:
+
+  * Involucrar al cliente y que visualice el proceso actual del sistema.
+  * El cliente sabe con anterioridad cómo será el sistema en su fase final.
+  * Ideal para presupuestos y agendas que se acoplen a las necesidades de la
+    empresa.
+  * Los cambios durante el proyecto son  facilmente reversibles.
+  * Durante el ciclo de vida del proyecto se realizan cambios para evitar futuros
+    arreglos y mantenimientos una vez entregado el sistema.
 
 Actividades a realizar
 ----------------------
 
-Listado de actividades importantes que el cliente debe de tener en cuenta, como por
-ejemplo, el análisis, la implementación, capacitaciones, etc.
+  * Análisis
+  * Desarrollo
+  * Pruebas
+  * Implementación
+  * Capacitaciones
+  * Mantenimiento
 
 Entregables
 -----------
 
-Se listan y se describen cada uno de los elementos que se entregarán al final
-del proyecto, como código fuente, manuales, etc.
+  * Manuales:
+      Donde se explican y detallan qué hace cada parte del software
+  * Sistema:
+      El sistema completamente funcional, acorde a los requisitos del cliente.
 
 Tabla de tiempos y costos
 -------------------------
 
-Se crea una tabla de tiempos estipulados de desarrollo al igual que los costos,
-pero en el caso del proyecto solamente se colocarán los tiempos, ya que la
-evaluación de costos se verá en otros cursos mas adelante.
-
-Condiciones
------------
-
-Condiciones legales, administrativas o de otra índole que el cliente debe de
-tomar en cuenta para la realización del proyecto, como fechas de pago, licencias,
-requerimientos, etc.
+.. image:: diagramas/diagramaTiempos.png
+  :scale: 100%
+  :align: center

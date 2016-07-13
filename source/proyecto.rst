@@ -60,6 +60,8 @@ Modulos
     Este módulo contará con las siguientes funciones:
 
       * Crear evento, en caso exclusivo de artistas y administradores.
+      * Ver información de los eventos.
+      * Comentar eventos.
       * Ver eventos existentes.
       * Buscar eventos.
       * Ver eventos por categorías.
@@ -88,6 +90,7 @@ Modulos
     Las estadísticas, siendo un sub módulo de este, tendrán las siguientes
     opciones:
 
-      * Ver eventos más populares.
+      * Ver eventos más populares (asistencias).
+      * Las categorías con más eventos creados.
       * Censos de artistas (cuántos artistas hay en cada categoría).
       * Actualizar las estadísticas.

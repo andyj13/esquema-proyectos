@@ -49,8 +49,8 @@ Misión del proyecto
 -------------------
 
 
-Recabar información con relación a los artistas y eventos creados con el
-objetivo de poder crear estadísticas que faciliten decisiones administrativas.
+Generar estadísticas que faciliten decisiones administrativas recabando información
+acerca de los artistas y eventos creados.
 
 
 
@@ -61,5 +61,6 @@ Objetivos del proyecto
   * Con base a la búsqueda de artistas o eventos, contabilizar las visitas que
     una categoría tiene.
   * Que haya un control del numero aproximado de asistencias a los eventos.
-  * Se pueda modificar el tiempo en que las estadísticas se puedan actualizar,
+  * Llevar control del número de eventos creados por categoría.
+  * Tenga la opción de modificar el tiempo en que las estadísticas se puedan actualizar,
     ya sea por semana, mes.
